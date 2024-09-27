@@ -62,7 +62,7 @@ const Email = () => {
           try my best to get back to you!
         </p>
         <div className="flex flex-row gap-2 ml-8 socials ">
-          <Link href="https://github.com/Neha5326/js">
+          <Link href="https://github.com/Neha5326">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
           <Link href="https://www.linkedin.com">
