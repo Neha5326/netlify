@@ -13,8 +13,8 @@ export default function Home() {
  />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="UTF-8" />
-        <meta property="og:title" content="Your Website Title" />
-        <meta property="og:description" content="This is the description of your website." />
+        <meta property="og:title" content="Neha's Portfolio | Web Developer" />
+        <meta property="og:description" content="Explore the portfolio of [Your Name], a full-stack web developer skilled in JavaScript, React, Node.js, and MongoDB. View real-world projects, code samples, and case studies that demonstrate expertise in building scalable web applications. Contact me for web development or consulting opportunities." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://yourwebsite.com" />
         <meta property="og:image" content="https://yourwebsite.com/og-image.jpg" />
